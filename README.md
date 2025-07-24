@@ -1,3 +1,4 @@
 # Aapna-time
 This is my first gitRepository
-Auhor - heet prajapati
+
+Author - heet prajapati
